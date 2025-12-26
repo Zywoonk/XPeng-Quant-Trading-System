@@ -52,14 +52,4 @@ This project is for educational and research purposes only. It does not constitu
 
 ---
 
-### 📝 操作提醒：
 
-1.  在 GitHub 仓库页面点击 **`Add file`** -> **`Create new file`**。
-2.  文件名输入：`README.md` (注意全大写)。
-3.  把上面代码块里的内容粘贴进去。
-4.  **关键检查：** 请确保你的截图文件名真的是 `backtest_result.png`。如果你刚才命名的不一样（比如叫 `image.png`），请在粘贴后手动把代码里的 `(backtest_result.png)` 改成你实际的文件名。
-5.  点击 **`Commit changes`**。
-
-搞定！你的主页现在会显示出漂亮的文档和图表了。
-
-```
