@@ -30,7 +30,7 @@ The system captures high-volatility trends while managing downside risk through 
 ### 💻 How to Run
 1. Clone the repository:
 ```bash
-git clone [https://github.com/YourName/XPeng-Quant-Trading-System.git](https://github.com/YourName/XPeng-Quant-Trading-System.git)
+git clone [https://github.com/Zywoonk/XPeng-Quant-Trading-System.git](https://github.com/Zywoonk/XPeng-Quant-Trading-System.git)
 
 ```
 
